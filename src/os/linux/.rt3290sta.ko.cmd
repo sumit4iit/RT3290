@@ -1,0 +1,1 @@
+cmd_/home/sumit/Desktop/ralink/RT3290_u16/src/os/linux/rt3290sta.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sumit/Desktop/ralink/RT3290_u16/src/os/linux/rt3290sta.ko /home/sumit/Desktop/ralink/RT3290_u16/src/os/linux/rt3290sta.o /home/sumit/Desktop/ralink/RT3290_u16/src/os/linux/rt3290sta.mod.o
