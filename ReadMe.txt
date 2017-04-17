@@ -1,3 +1,7 @@
+///////////////////////////////////
+//   Stopped working in 17.04    //
+///////////////////////////////////
+
 Info
 --------------------------------------------------------------------------------------
 Package for installing Ralink corp. RT3290 Linux STA wireless driver on Ubuntu 15.04 based distributions
